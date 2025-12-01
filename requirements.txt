@@ -1,8 +1,0 @@
-﻿fastapi
-uvicorn[standard]
-pillow
-pydantic
-python-multipart
-google-generativeai
-python-dotenv
-httpx
